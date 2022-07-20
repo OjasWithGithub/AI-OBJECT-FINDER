@@ -1,0 +1,40 @@
+.copyright-footer{
+    position: fixed;
+    color: rgb(46, 46, 46);
+    bottom: 0;
+    width: 100%;
+    margin: 0;
+    border-radius: 0px;
+    background-color: rgb(126, 126, 126);
+    line-height: 3;
+    text-align: center;
+}
+
+#start{
+
+    font-size: 20px;
+
+}
+
+#status,#object_status{
+    font-size: 15px;
+    margin-left: 3px; 
+    margin-right: 3px; 
+}
+
+h1{
+    width: 100%;
+    font-size: 30px;
+    padding: 10px;
+    margin: 0;
+    border-radius: 0px;
+}
+
+#object_input{
+    width: 50%;
+}
+
+body{
+    background-size: cover;
+}
+
